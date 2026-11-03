@@ -61,48 +61,6 @@ This project uses MobileNetV2, a convolutional neural network architecture, for 
 4. The trained MobileNetV2 model predicts the gesture.
 5. The predicted class is displayed on the screen.
 
-## ⚙️ Installation and Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/ASL-Sign-Language-Recognition.git
-```
-
-### 2. Navigate to the Project Folder
-
-```bash
-cd ASL-Sign-Language-Recognition
-```
-
-### 3. Create a Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-### 4. Activate the Environment
-
-Windows:
-
-```bash
-venv\Scripts\activate
-```
-
-### 5. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 6. Run the Application
-
-```bash
-python app.py
-```
-
-*Make sure the model path and application filename match your actual project files.*
-
 ## 📊 Dataset Information
 
 The project dataset was prepared for 34 gesture classes.
